@@ -23,7 +23,7 @@ Dataset-Narkotika_XXX_YYY/
 │   └── Narkotika.zip       # Berisi 55 dokumen PDF putusan pengadilan
 │
 ├── Overview/
-│   └── Overview.xlsx       # Ringkasan/ekstraksi manual dari 50 dokumen putusan
+│   └── Overview.xlsx       # Ringkasan/ekstraksi manual dari 55 dokumen putusan
 │
 └── README.md               # Dokumentasi dataset (file ini)
 ```
