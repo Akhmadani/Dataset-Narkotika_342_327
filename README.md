@@ -40,8 +40,3 @@ File `Overview.xlsx` merupakan summary dari 55 dokumen putusan yang ada di dalam
 Dataset ini dikumpulkan, disusun, dan didokumentasikan oleh:
 * **Akhmadani Bahaillah** - 202310370311342
 * **Muhammad Bayu Aji Bagaskara** - 202310370311327
-
-> **Catatan:** Repositori ini bersifat *public* dan data di dalamnya merupakan data terbuka yang tidak terikat Hak Atas Kekayaan Intelektual (HaKI), ditujukan murni untuk keperluan riset dan edukasi dalam lingkup Temu Kembali Informasi (Information Retrieval).
-
----
-*Dibuat dengan ❤️ untuk UTS Temu Kembali Informasi 2026/2027*
